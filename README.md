@@ -3,6 +3,8 @@
 Dump Confluence pages using Python (requests) in HTML and RST format, including embedded pictures and attachments.
 References to downloaded files will be updated to their local relative path.
 
+Repo currently supports the Cloud API, and is being rewritten to support both Cloud and Server.
+
 ## Description
 
 Nonetheless, the refactoring will require only 2 files and accept command-line args:
