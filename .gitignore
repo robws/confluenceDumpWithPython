@@ -2,3 +2,6 @@ lib/
 bin/
 output/
 .venv/
+.python-version
+.vscode/
+auth-headers.py
