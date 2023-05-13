@@ -54,7 +54,7 @@ The `site.css` file included with Confluence UI HTML exports is not as complete 
 * Clone repo.
 * Install dependencies.
 * Declare system variables for Atlassian API Token.
-
+* rename `auth_headers_test.py` to `auth_headers.py` and replacing the bearer token id with your own.
 ### Executing program
 
 
