@@ -4,4 +4,4 @@ output/
 .venv/
 .python-version
 .vscode/
-auth-headers.py
+auth_headers.py
